@@ -8,6 +8,6 @@
 ### Steps
 - Opening file in Excel.
 - Fomatting the data.
-- Imorting data in Power BI.
+- Importing data in Power BI.
 - Creating Dashboard.
 - Getting Insight. 
